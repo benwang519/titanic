@@ -1,0 +1,24 @@
+<style>
+		body {
+			font-family: Arial;
+			margin: 50px;
+		}
+		.brect {
+			width: 300px;
+			height: 100px;
+			color: white;
+			fill: blue;
+			transition: width 2s;
+		}
+
+		.brect:hover {
+			width: 800px;
+			height: 100px;
+		}
+
+		.myh1{
+			font-family: fantasy;
+			color: hotpink;
+
+		}
+	</style>

@@ -16,6 +16,31 @@
 			height: 100px;
 		}
 
+		.female {
+			width: 300px;
+			height: 100px;
+			color: white;
+			fill: red;
+			transition: width 2s;
+		}
+
+		.female:hover {
+			width: 230px;
+			height: 100px;
+		}
+		.kid {
+			width: 300px;
+			height: 100px;
+			color: white;
+			fill: green;
+			transition: width 2s;
+		}
+
+		.kid:hover {
+			width: 440px;
+			height: 100px;
+		}
+
 		.myh1{
 			font-family: fantasy;
 			color: hotpink;
